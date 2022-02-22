@@ -2,9 +2,13 @@
   "name": "vscode-norminette",
   "displayName": "vscode-norminette",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "mjy9088",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mjy9088/vscode-norminette.git"
+  },
   "engines": {
     "vscode": "^1.64.0"
   },
